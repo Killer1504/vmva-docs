@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Tạo dự án mới
+# Tạo dự án
 
 Tạo project mới hoặc mở project đã làm trước đó
 

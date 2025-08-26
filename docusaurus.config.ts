@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'VMA Documentation',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'An application for making video',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -85,12 +85,8 @@ const config: Config = {
           position: 'left',
           label: 'Hướng dẫn',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        { to: '/blog', label: 'Cập nhật phiên bản', position: 'left' },
+        
       ],
     },
     footer: {
@@ -106,27 +102,23 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Cộng đồng',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Sunny',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'Vfast Media, Dev',
               href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+            }
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Cập nhật phiên bản',
               to: '/blog',
             },
             {

@@ -2,46 +2,38 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hãy khám phá các bước cơ bản để làm việc với app VMVA.
 
-## Getting Started
+## Đăng nhập
 
-Get started by **creating a new site**.
+Tạo tài khoản và sử dụng
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- `Bạn cần có tài khoản để sử dụng app`
+- `Mỗi tài khoản chỉ đăng nhập được trên 1 máy tính`
 
-### What you'll need
+## Tạo project
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Tạo project để làm việc
 
-## Generate a new site
+- `B1. Đặt tên project, chọn nơi lưu và chọn template tương ứng`
 
-Generate a new Docusaurus site using the **classic template**.
+- `B2. Làm theo hướng dẫn trong từng template vào export video hoặc audio`
 
-The classic template will automatically be added to your project after you run the command:
+## Cài đặt thư viện
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Các thư viện cần thiết để chạy project full tính năng
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- `Thư viện generate lyric -> lấy lyric của video, audio`
+- `Thư viện voice clone -> clone giọng nói`
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Các tính năng chính
 
-## Start your site
+### 1. Thuyết minh phim
+### 2. Review truyện tranh, truyện chữ
+### 3. Viết lại kịch bản theo phong cách tùy chỉnh
+### 4. Tạo giọng nói từ text, có thể clone theo giọng bất kỳ
+### 5. Làm lyric cho video
+### 6. Zoom, thêm mặt nạ cho video => tránh bản quyền
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
