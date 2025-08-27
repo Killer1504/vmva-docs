@@ -11,12 +11,16 @@ Tạo project mới hoặc mở project đã làm trước đó
 - `P/s: các project đã tạo từ trước sẽ được lưu lại và sắp xếp theo thời gian mới nhất`
 
 
-## Start app
+## I. Start app
 - `Cửa sổ start application`
 - `Có thể tạo project mới`
 - `Lưu thông tin các project trước đó: Tên, loại, thời gian, kích thước`
 
-## Tạo project mới
+![Lyric](/img/start/start.png)
+
+#### *Hình 1 - Cửa sổ sau khi đăng nhập*
+
+## II. Tạo project mới
 
 - `B1 - Click vào tạo project hoặc nhấn Ctrl + N`
 - `B2 - Cửa sổ tạo project hiện ra`
@@ -25,8 +29,12 @@ Tạo project mới hoặc mở project đã làm trước đó
 - `B5 - Chọn loại template cần làm việc`
 - `B6 - Click OK`
 
+![Lyric](/img/start/create-project.png)
 
-## Mở project đã có
+#### *Hình 2 - Cửa sổ tạo project*
 
-- `B1. Tìm trong bảng project cần mở, hoặc click vào tìm kiếm sau đó gõ tên và nhấn Enter`
+
+## III. Mở project đã có
+
+- `B1. Ở hình 1, tìm trong bảng project cần mở, hoặc click vào tìm kiếm sau đó gõ tên và nhấn Enter`
 - `B2. Click đúp vào project hoặc nhấn vào ⋮ và chọn Mở`

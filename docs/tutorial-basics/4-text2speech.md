@@ -4,31 +4,23 @@ sidebar_position: 4
 
 # Text 2 Speech
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Hiện tại app đang hỗ trợ các ngôn ngữ sau:
+- Tiếng Việt
+- Tiếng Anh
+- Tiếng Trung Quốc
+- Tiếng Nhật
+- Tiếng Hàn
+- Tiếng Tây Ban Nha
+- Tiếng Bồ Đào Nha
 
-## Create your first Post
+## Chuyển đổi
 
-Create a file at `blog/2021-02-28-greetings.md`:
+- B1. Chọn 1 trong 2 loại giọng **TTK** hoặc **Microsoft**, sau đó có thể chọn **clone**
+- B2. Nhập văn bản cần chuyển đổi vào input
+- B3. Nếu chọn **clone**, ở phần **Cài đặt nâng cao**, chọn đúng **Embbedder model** phù hợp với ngôn ngữ
+- B4. Nhấn vào **Export** hoặc **Tạo audio**, đặt tên file output và sau đó nhấn **OK**
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+![Lyric](/img/speech2text/rvc.png)
 
-Congratulations, you have made your first post!
+#### *Hình 1 - Giao diện speech 2 text*
 
-Feel free to play around and edit this post as much as you like.
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
