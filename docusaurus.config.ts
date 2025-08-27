@@ -105,12 +105,12 @@ const config: Config = {
           title: 'Cộng đồng',
           items: [
             {
-              label: 'Sunny',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Sunny Media',
+              href: 'https://sunnymedia.net/',
             },
             {
               label: 'Vfast Media, Dev',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://vfastsoft.com/',
             }
           ],
         },
