@@ -33,7 +33,7 @@ Dịch và lồng tiếng phim từ ngôn ngữ này sang ngôn ngữ khác
         - Menu **Audio** -> **Download Audio**
         - Tải audio: bạn có thể chọn tốc độ phù hợp với giọng nói ở phim để download
 
-        ![Lyric](/img/common/download-audio.png)
+        ![download-audio](/img/common/download-audio.png)
 
         **Hình 2 - Cửa sổ download audio**
 
@@ -46,9 +46,9 @@ Dịch và lồng tiếng phim từ ngôn ngữ này sang ngôn ngữ khác
             - Tự động kéo dãn video và âm thanh
             - Tự động điều chỉnh âm thanh
         - Export
-            - Chọn sử dụng GPU
-            - Tách vocal
+            - Chọn sử dụng GPU hoặc không
+            - Tách vocal nếu muốn loại bỏ tiếng gốc của phim
 
-        ![Lyric](/img/common/export-video.png)
+        ![export-video](/img/common/export-video.png)
 
         **Hình 3 - Cửa sổ export video**

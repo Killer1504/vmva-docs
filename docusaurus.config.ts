@@ -85,7 +85,7 @@ const config: Config = {
           position: 'left',
           label: 'Hướng dẫn',
         },
-        { to: '/blog', label: 'Cập nhật phiên bản', position: 'left' },
+        { to: '/blog', label: 'Changelog', position: 'left' },
         
       ],
     },
@@ -115,20 +115,16 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Nhiều hơn',
           items: [
             {
-              label: 'Cập nhật phiên bản',
+              label: 'Changelog',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VMVA Documentation, Inc. Built with Docusaurus. [HungLe - Vfast]`,
     },
     prism: {
       theme: prismThemes.github,

@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            VMVA Tutorial - 5 phút ⏱️
+            VMVA Tutorial - 15 phút ⏱️
           </Link>
         </div>
       </div>
