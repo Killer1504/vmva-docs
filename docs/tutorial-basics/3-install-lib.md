@@ -11,7 +11,7 @@ Cài đặt thư viện để sử dụng đầy đủ tính năng của ứng d
 Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
 
 1. Download
-    - Download thư viện ở link google driver: [https://drive.google.com/file/d/1fbsjYrpJGJD2tYhNZSyUsWi8jmZbSeDS/view]
+    - Download thư viện ở [lyric_driver](https://drive.google.com/file/d/1fbsjYrpJGJD2tYhNZSyUsWi8jmZbSeDS/view)
     - Giải nén file vừa download (Recommend ở ổ đĩa SSD)
 2. Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Nhận diện lyric**
@@ -24,13 +24,13 @@ Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
 ## II. Thư viện clone audio
 
 1. Download
-    - Download thư viện ở link google driver: [https://drive.google.com/file/d/1nNkbe6iX3K-JzWOKErvDmQYR5wABDBMM/view]
+    - Download thư viện ở [clone_driver](https://drive.google.com/file/d/1nNkbe6iX3K-JzWOKErvDmQYR5wABDBMM/view)
     - Giải nén file vừa download (Recommend ở ổ đĩa SSD)
 2. Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Voice clone**
     - Chọn đến thư mục vừa giải nén
 3. Thêm các giọng clone
-    - Tải các giọng clone ở dạng file .zip ở các link sau [https://voice-models.com/] hoặc [https://drive.google.com/drive/folders/1ur5F2J7mP2g6AAdrJde96UPxywDLQOs7]
+    - Tải các giọng clone ở dạng file .zip ở các link sau [web](https://voice-models.com/) hoặc [model_driver](https://drive.google.com/drive/folders/1ur5F2J7mP2g6AAdrJde96UPxywDLQOs7)
     - Sau khi download xong, vào cửa sổ vừa mở, chọn đến các đường dẫn file vừa download
     - Chọn ngôn ngữ của giọng vừa download và sửa tên phù hợp để dễ dàng sử dụng
 
