@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'VMA Documentation',
   tagline: 'An application for making video',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/v.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
