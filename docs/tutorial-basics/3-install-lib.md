@@ -15,7 +15,7 @@ Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
     - Giải nén file vừa download (Recommend ở ổ đĩa SSD)
 2. Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Nhận diện lyric**
-    - Chọn đến file lyric_.exe ở thư mục vừa giải nén
+    - Chọn đến file **lyric_.exe** ở thư mục vừa giải nén
 
 ![Lyric](/img/lib/lyric.png)
 
@@ -31,7 +31,7 @@ Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
     - Chọn đến thư mục vừa giải nén
 3. Thêm các giọng clone
     - Tải các giọng clone ở dạng file .zip ở các link sau [web](https://voice-models.com/) hoặc [model_driver](https://drive.google.com/drive/folders/1ur5F2J7mP2g6AAdrJde96UPxywDLQOs7)
-    - Sau khi download xong, vào cửa sổ vừa mở, chọn đến các đường dẫn file vừa download
+    - Sau khi download xong, vào cửa sổ vừa mở (hình 2), nhấn **Thêm** và chọn đến các đường dẫn file vừa download
     - Chọn ngôn ngữ của giọng vừa download và sửa tên phù hợp để dễ dàng sử dụng
 
 ![VoiceClone](/img/lib/voice-clone.png)
@@ -42,7 +42,7 @@ Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
 
 1. Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Tách vocal**
-    - Cửa sổ tách vocal hiện ra, vào **Công cụ** -> **Cài đặt manual**
+    - Cửa sổ tách vocal hiện ra (hình 3), vào **Công cụ** -> **Cài đặt manual**
     - Chương trình sẽ ghi xuống 1 file .bat vào máy tính
     - Bạn chạy file .bat (nhiều hơn 2 lần) cho đến khi báo thành công
     - Khởi động lại máy tính, tìm đến cửa sổ Tách Vocal. Ở phía dưới cửa sổ, có button ***Bắt đầu xử lý*** là đã cài đặt thành công

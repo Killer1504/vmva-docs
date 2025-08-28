@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Text 2 Speech
 
-Hỗ trợ nhiều ngôn ngữ
+Hỗ trợ nhiều ngôn ngữ và nhiều giọng
 - Tiếng Việt
 - Tiếng Anh
 - Tiếng Trung Quốc
