@@ -10,7 +10,7 @@ Làm lyric cho video, audio
 
 #### *Hình 1 - Giao diện tạo video lyric*
 
-## I. Tạo sub
+## I. Tạo subtitle
     1. Tạo tự động
         - Chọn ngôn ngữ của video
         - Generate
