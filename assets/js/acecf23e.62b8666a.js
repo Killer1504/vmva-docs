@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvmva_docs=self.webpackChunkvmva_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/vmva-docs/blog","blogTitle":"Blog","authorsListPath":"/vmva-docs/blog/authors"}')}}]);
