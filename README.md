@@ -1,41 +1,34 @@
-# Website
+# VMVA Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the documentation repository for the VMVA project, powered by [Docusaurus](https://docusaurus.io/).
 
-## Installation
+## Getting Started
 
-```bash
-yarn
-```
+1. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-## Local Development
+2. **Start the local development server:**
+    ```bash
+    npm run start
+    ```
 
-```bash
-yarn start
-```
+3. **Build the static site:**
+    ```bash
+    npm run build
+    ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Project Structure
 
-## Build
+- `docs/` — Documentation markdown files
+- `src/` — Custom components and pages
+- `docusaurus.config.js` — Site configuration
 
-```bash
-yarn build
-```
+## Contributing
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Feel free to open issues or submit pull requests to improve the documentation.
 
-## Deployment
+## License
 
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This project is licensed under the MIT License.
