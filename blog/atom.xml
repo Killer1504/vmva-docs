@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Killer1504.github.io/vmva-docs/blog</id>
-    <title>VMA Documentation Blog</title>
+    <title>VMVA Documentation Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Killer1504.github.io/vmva-docs/blog"/>
-    <subtitle>VMA Documentation Blog</subtitle>
+    <subtitle>VMVA Documentation Blog</subtitle>
     <icon>https://Killer1504.github.io/vmva-docs/img/v.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
