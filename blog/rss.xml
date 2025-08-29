@@ -23,9 +23,9 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="fix-bugs">Fix bugs<a href="https://killer1504.github.io/vmva-docs/blog/2-14-3#fix-bugs" class="hash-link" aria-label="Direct link to Fix bugs" title="Direct link to Fix bugs">​</a></h2>
 <ul>
 <li>Sửa lỗi export video không nhận style đã cài đặt</li>
-<li></li>
+<li>Update ui</li>
 </ul>]]></content:encoded>
-            <category>Docusaurus</category>
+            <category>Download</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -49,8 +49,8 @@
 <li>Tạo project theo từng template</li>
 <li>Đọc hướng dẫn sử dụng</li>
 </ul>]]></content:encoded>
-            <category>welcome</category>
-            <category>download</category>
+            <category>Welcome</category>
+            <category>Download</category>
         </item>
         <item>
             <title><![CDATA[Download]]></title>
@@ -70,8 +70,8 @@
 <li>Click <em>Next</em> và tiếp tục</li>
 <li>Finish</li>
 </ul>]]></content:encoded>
-            <category>welcom</category>
-            <category>download</category>
+            <category>Welcome</category>
+            <category>Download</category>
         </item>
     </channel>
 </rss>
