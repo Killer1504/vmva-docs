@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'VMA Documentation',
-  tagline: 'An application for making video',
+  title: 'VMVA Documentation',
+  tagline: 'A desktop application for making video',
   favicon: 'img/v.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
