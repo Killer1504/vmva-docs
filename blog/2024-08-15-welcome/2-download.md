@@ -2,8 +2,10 @@
 slug: download
 title: Download
 authors: [hungle]
-tags: [welcom, download]
+tags: [welcome, download]
 ---
+
+<!-- truncate -->
 
 ## Tải xuống
 

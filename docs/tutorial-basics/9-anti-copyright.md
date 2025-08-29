@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Anti copyright
+# Anti CR
 
 Thêm filter cho **video dọc** -> **video ngang**
 

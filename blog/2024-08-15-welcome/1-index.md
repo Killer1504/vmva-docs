@@ -5,10 +5,13 @@ authors: [hungle]
 tags: [welcome, download]
 ---
 
+<!-- truncate -->
+
 ## VMVA app là gì?
 
 
 Là 1 **desktop app** dùng để **render video**
+
 - Thuyết minh phim
 - Làm lyric
 - Review truyện tranh
@@ -17,7 +20,8 @@ Là 1 **desktop app** dùng để **render video**
 
 
 ## Làm thế nào để sử dụng?
-    - Tải xuống và cài đặt
-    - Đăng ký tài khoản
-    - Tạo project theo từng template
-    - Đọc hướng dẫn sử dụng
+
+- Tải xuống và cài đặt
+- Đăng ký tài khoản
+- Tạo project theo từng template
+- Đọc hướng dẫn sử dụng
