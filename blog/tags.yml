@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+login:
+  label: Login
+  permalink: /login
+  description: Login tag description
+
+render:
+  label: Render
+  permalink: /render
+  description: Render tag description

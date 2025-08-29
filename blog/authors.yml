@@ -23,3 +23,16 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+hungle:
+  name: Hung Le
+  title: Software Engineer at VFast
+  url: https://www.linkedin.com/in/h%C3%B9ng-l%C3%AA-7370691b7/
+  image_url: https://avatars.githubusercontent.com/u/45095085?v=4
+  page: false
+  socials:
+    x: hungl3
+    linkedin: https://www.linkedin.com/in/h%C3%B9ng-l%C3%AA-7370691b7/
+    github: Killer1504
+    newsletter: https://www.getrevue.co/profile/hungle
+
