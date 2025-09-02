@@ -25,7 +25,7 @@ Dùng **user** và **password** để đăng nhập
 #### *Hình 1 - Giao diện đăng nhập app*
 
 
-## II. Computer Id
+## II. Đăng ký
 
 Là mã đại diện cho thiết bị 
 - B1 - Click vào đăng ký tài khoản, một cửa sổ hiện như hình 2

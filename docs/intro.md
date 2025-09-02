@@ -25,8 +25,9 @@ Tạo project để làm việc
 
 Các thư viện cần thiết để chạy project full tính năng
 
-- Thư viện generate lyric -> lấy lyric của video, audio
+- Thư viện generate lyric -> speech 2 text
 - Thư viện voice clone -> clone giọng nói
+- Thư viện tách vocal
 
 ## Các tính năng chính
 
@@ -35,5 +36,8 @@ Các thư viện cần thiết để chạy project full tính năng
  3. Viết lại kịch bản theo phong cách tùy chỉnh
  4. Tạo giọng nói từ text, có thể clone theo giọng bất kỳ
  5. Làm lyric cho video
- 6. Tránh bản quyền
+ 6. Anti CR
 
+:::tip
+Bạn có thể mở đồng thời nhiều `instance` để làm việc với nhiều project cùng 1 lúc
+:::

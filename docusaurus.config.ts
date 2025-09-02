@@ -86,6 +86,7 @@ const config: Config = {
           label: 'Hướng dẫn',
         },
         { to: '/blog', label: 'Changelog', position: 'left' },
+        { to: '/download', label: 'Download', position: 'left' },
         
       ],
     },

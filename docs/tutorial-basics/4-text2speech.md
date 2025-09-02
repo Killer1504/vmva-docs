@@ -13,12 +13,15 @@ Hỗ trợ nhiều ngôn ngữ và nhiều giọng
 - Tiếng Tây Ban Nha
 - Tiếng Bồ Đào Nha
 
-## Chuyển đổi
+## Chọn giọng và nhập văn bản
 
-- B1. Chọn 1 trong 2 loại giọng **TTK** hoặc **Microsoft**, sau đó có thể chọn **clone**
-- B2. Nhập văn bản cần chuyển đổi vào input
-- B3. Nếu chọn **clone**, ở phần **Cài đặt nâng cao**, chọn đúng **Embbedder model** phù hợp với ngôn ngữ
-- B4. Nhấn vào **Export** hoặc **Tạo audio**, đặt tên file output và sau đó nhấn **OK**
+- Chọn 1 trong 2 loại giọng **TTK** hoặc **Microsoft**, sau đó có thể chọn **clone**
+- Nếu chọn **clone**, cần chọn giọng đúng với ngôn ngữ và ở phần **Cài đặt nâng cao**, chọn đúng **Embbedder model** phù hợp với ngôn ngữ đó
+- Nhập văn bản cần chuyển đổi vào input
+
+## Export audio
+
+- Nhấn vào **Export** hoặc **Tạo audio**, đặt tên file output và sau đó nhấn **OK**
 
 ![rvc](/img/speech2text/rvc.png)
 

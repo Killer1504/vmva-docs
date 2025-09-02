@@ -38,3 +38,17 @@ Tạo project mới hoặc mở project đã làm trước đó
 
 - B1. Ở hình 1, tìm trong bảng project cần mở, hoặc click vào biểu tượng tìm kiếm (🔍︎) sau đó gõ tên và Enter
 - B2. Click đúp vào project hoặc nhấn vào **⋮** và chọn **Mở**
+
+
+:::note
+
+Nếu project chiếm dung lượng lớn, bạn hãy mở project. Sau đó chọn vào menu **Project -> Mở project trong windows**
+và xóa các file `.mp4, .mp3` để giải phóng bộ nhớ
+
+:::
+
+
+:::danger
+Không xóa file có đuôi `.vmva`. Đây là file chưa thông tin project
+:::
+
