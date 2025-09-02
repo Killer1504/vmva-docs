@@ -34,10 +34,10 @@
             <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[VMVA app là gì?]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vmva-app-là-gì">VMVA app là gì?<a href="https://killer1504.github.io/vmva-docs/blog/welcome#vmva-app-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to VMVA app là gì?" title="Direct link to VMVA app là gì?">​</a></h2>
-<p>Là 1 <strong>desktop app</strong> dùng để <strong>render video</strong></p>
+<p>Là <span style="background-color:#2e8555;border-radius:2px;color:#fff;padding:0.2rem">Desktop app</span> dùng để render video theo các <strong>Template</strong> có sẵn như</p>
 <ul>
 <li>Thuyết minh phim</li>
-<li>Làm lyric</li>
+<li>Làm video lyric</li>
 <li>Review truyện tranh</li>
 <li>Review phim theo phong cách tùy chọn</li>
 <li>Add filter, mask to overlay vidoe</li>
@@ -60,14 +60,14 @@
             <description><![CDATA[Tải xuống]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tải-xuống">Tải xuống<a href="https://killer1504.github.io/vmva-docs/blog/download#t%E1%BA%A3i-xu%E1%BB%91ng" class="hash-link" aria-label="Direct link to Tải xuống" title="Direct link to Tải xuống">​</a></h2>
 <ul>
-<li>Download app tại <a href="https://drive.google.com/file/d/14QYIjAuzyCh3ls5siPG7YETivA9Ni5AY/view?usp=sharing" target="_blank" rel="noopener noreferrer">driver</a></li>
-<li>App chỉ khả dụng trên máy tính dùng hệ điều hành Window</li>
+<li>Download app tại <strong><a href="https://drive.google.com/file/d/14QYIjAuzyCh3ls5siPG7YETivA9Ni5AY/view?usp=sharing" target="_blank" rel="noopener noreferrer">google driver</a></strong></li>
+<li>App chỉ <em>khả dụng</em> trên máy tính dùng hệ điều hành <em>Windows</em></li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hướng-dẫn-cài-đặt">Hướng dẫn cài đặt<a href="https://killer1504.github.io/vmva-docs/blog/download#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t" class="hash-link" aria-label="Direct link to Hướng dẫn cài đặt" title="Direct link to Hướng dẫn cài đặt">​</a></h2>
 <ul>
-<li>Click vào file <em>.msi</em> vừa tải về</li>
-<li>Chọn <em>Yes</em> nếu hệ điều hành có cảnh báo về author của file</li>
-<li>Click <em>Next</em> và tiếp tục</li>
+<li>Click vào file <code>.msi</code> vừa tải về</li>
+<li>Chọn <code>Yes</code> nếu hệ điều hành có cảnh báo về author của file</li>
+<li>Click <code>Next</code> và tiếp tục</li>
 <li>Finish</li>
 </ul>]]></content:encoded>
             <category>Welcome</category>
