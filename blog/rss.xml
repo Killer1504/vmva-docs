@@ -19,8 +19,9 @@
 <li>Thêm template edit video (Anti CR)</li>
 <li>Update thêm kích thước video trong cửa sổ prview lyric cho user chọn</li>
 <li>Thêm model tiếng Hàn khi download audio</li>
-<li>Enable lại tính năng auto save</li>
+<li>Enable tính năng auto save</li>
 <li>Update lại cửa sổ vẽ bubble chat</li>
+<li>Fix lỗi cannnot allocate memory khi export</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="fix-bugs">Fix bugs<a href="https://killer1504.github.io/vmva-docs/blog/2-14-3#fix-bugs" class="hash-link" aria-label="Direct link to Fix bugs" title="Direct link to Fix bugs">​</a></h2>
 <ul>
