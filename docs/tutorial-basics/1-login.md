@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Đăng nhập
 
-Sử dụng *user,password* và *id* máy để đăng nhập
+Sử dụng **user, password** và **computer id** máy để đăng nhập
 
-- Lấy computer id của máy gửi cho admin computer id để tạo tài khoản
+- Lấy computer id của máy gửi cho admin computer id để đăng ký khoản
 - Đăng nhập
 - P/s: mỗi tài khoản chỉ dùng được ở trên 1 máy tính
 
