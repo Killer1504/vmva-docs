@@ -33,6 +33,11 @@ Tạo project mới hoặc mở project đã làm trước đó
 
 #### *Hình 2 - Cửa sổ tạo project*
 
+:::tip
+- Click vào button **☆ (favorite)** của template để nó sẽ được ưu tiên sắp xếp lên đầu
+- Click đúp vào template **=** click OK
+:::
+
 
 ## III. Mở project đã có
 
@@ -52,3 +57,9 @@ và xóa các file `.mp4, .mp3` để giải phóng bộ nhớ
 Không xóa file có đuôi `.vmva`. Đây là file chưa thông tin project
 :::
 
+
+:::tip
+Click vào button ở góc phải cửa sổ start application, sẽ thấy được thông tin tài khoản
+- Free
+- Pro
+:::

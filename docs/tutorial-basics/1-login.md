@@ -12,7 +12,7 @@ Sử dụng **user, password** và **computer id** máy để đăng nhập
 
 
 
-## I. Đăng nhập
+## I. Login
 
 Dùng **user** và **password** để đăng nhập
 
@@ -20,12 +20,12 @@ Dùng **user** và **password** để đăng nhập
 - B1 - Nhập user, password
 - B2 - Nhấn **Đăng nhập**
 
-![ComputerId](/img/authen/login.png)
+![Login](/img/authen/login.png)
 
 #### *Hình 1 - Giao diện đăng nhập app*
 
 
-## II. Đăng ký
+## II. Đăng ký tài khoản
 
 Là mã đại diện cho thiết bị 
 - B1 - Click vào đăng ký tài khoản, một cửa sổ hiện như hình 2
