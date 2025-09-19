@@ -4,10 +4,27 @@
         <title>VMVA Documentation Blog</title>
         <link>https://Killer1504.github.io/vmva-docs/blog</link>
         <description>VMVA Documentation Blog</description>
-        <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2.15.0]]></title>
+            <link>https://Killer1504.github.io/vmva-docs/blog/2-15-0</link>
+            <guid>https://Killer1504.github.io/vmva-docs/blog/2-15-0</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What's new]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's new<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#whats-new" class="hash-link" aria-label="Direct link to What's new" title="Direct link to What's new">​</a></h2>
+<ul>
+<li>Thêm tiện ích<!-- -->
+<ul>
+<li>Nối video, audio</li>
+<li>Chuyển đổi file sang <code>.mp3</code></li>
+</ul>
+</li>
+</ul>]]></content:encoded>
+            <category>Download</category>
+        </item>
         <item>
             <title><![CDATA[2.14.3]]></title>
             <link>https://Killer1504.github.io/vmva-docs/blog/2-14-3</link>

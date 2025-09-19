@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvmva_docs=self.webpackChunkvmva_docs||[]).push([[6181],{3060:o=>{o.exports=JSON.parse('{"tags":[{"label":"Download","permalink":"/vmva-docs/blog/tags/download","description":"Download tag description","count":4},{"label":"Welcome","permalink":"/vmva-docs/blog/tags/welcome","description":"Welcome tag description","count":2}]}')}}]);
