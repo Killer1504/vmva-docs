@@ -11,10 +11,10 @@ Tạo project mới hoặc mở project đã làm trước đó
 - *P/s*: các project đã tạo từ trước sẽ được lưu lại và sắp xếp theo thời gian mới nhất
 
 
-## I. Start app
-- Cửa sổ start application
-- Có thể tạo project mới
-- Lưu thông tin các project trước đó: Tên, loại, thời gian, kích thước
+## I. Start application
+
+- Tạo project mới
+- Lưu thông tin các project trước đó: *Tên, loại, thời gian, kích thước*
 
 ![Lyric](/img/start/start.png)
 
@@ -22,11 +22,13 @@ Tạo project mới hoặc mở project đã làm trước đó
 
 ## II. Tạo project mới
 
+Tạo project để dễ dàng làm việc, người dùng có thể *lưu*, *mở* và *xóa* giống như *Office*
+
 - B1 - Ở hình 1, Click vào **Tạo project** hoặc nhấn tổ hợp phím **Ctrl + N**
-- B2 - Cửa sổ tạo project hiện ra
+- B2 - Cửa sổ tạo project hiện ra như hình 2
 - B3 - Đặt tên project
-- B4 - Chọn nơi lưu
-- B5 - Chọn loại template cần làm việc
+- B4 - Chọn nơi lưu (Recommend lưu ở ổ cứng SSD)
+- B5 - Chọn loại template cần dùng
 - B6 - Click **OK**
 
 ![Lyric](/img/start/create-project.png)
@@ -34,20 +36,22 @@ Tạo project mới hoặc mở project đã làm trước đó
 #### *Hình 2 - Cửa sổ tạo project*
 
 :::tip
-- Click vào button **☆ (favorite)** của template để nó sẽ được ưu tiên sắp xếp lên đầu
+- Click vào button **<i class="fa-regular fa-star"></i> (favorite)** của template để nó sẽ được ưu tiên sắp xếp lên đầu
 - Click đúp vào template **=** click OK
 :::
 
 
 ## III. Mở project đã có
 
-- B1. Ở hình 1, tìm trong bảng project cần mở, hoặc click vào biểu tượng tìm kiếm (🔍︎) sau đó gõ tên và Enter
-- B2. Click đúp vào project hoặc nhấn vào **⋮** và chọn **Mở**
+Các project lúc làm việc sẽ được lưu lại ở cửa sổ này
+
+- B1. Ở hình 1, tìm trong bảng project cần mở *hoặc* click vào biểu tượng tìm kiếm <i class="fa-solid fa-magnifying-glass"></i> sau đó gõ tên và Enter
+- B2. Click đúp vào project *hoặc* nhấn vào **⋮** và chọn **Mở**
 
 
 :::note
 
-Nếu project chiếm dung lượng lớn, bạn hãy mở project. Sau đó chọn vào menu **Project -> Mở project trong windows**
+Nếu project chiếm dung lượng lớn, bạn hãy mở project. Sau đó chọn vào menu **Project <i class="fa-solid fa-arrow-right"></i> Mở project trong windows**
 và xóa các file `.mp4, .mp3` để giải phóng bộ nhớ
 
 :::
@@ -61,5 +65,5 @@ Không xóa file có đuôi `.vmva`. Đây là file chưa thông tin project
 :::tip
 Click vào button ở góc phải cửa sổ start application, sẽ thấy được thông tin tài khoản
 - Free
-- Pro
+- Pro <i class="fa-regular fa-star"></i>
 :::

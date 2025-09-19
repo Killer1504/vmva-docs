@@ -12,7 +12,7 @@ Sử dụng **user, password** và **computer id** máy để đăng nhập
 
 
 
-## I. Login
+## I. Nhập thông tin
 
 Dùng **user** và **password** để đăng nhập
 
@@ -27,11 +27,11 @@ Dùng **user** và **password** để đăng nhập
 
 ## II. Đăng ký tài khoản
 
-Là mã đại diện cho thiết bị 
-- B1 - Click vào đăng ký tài khoản, một cửa sổ hiện như hình 2
-- B2 -  Bạn hãy copy mã này và gửi cho admin
+Là mã đại diện cho thiết bị <i class="fa-solid fa-key"></i>
+- B1 - Click vào *đăng ký tài khoản*, một cửa sổ hiện như hình 2
+- B2 - Bạn hãy copy mã này và gửi cho admin
 
 
 ![ComputerId](/img/authen/computer-id.png)
 
-#### *Hình 2 - Giao diện lấy mã thiết bị*
+#### *Hình 2 - Giao diện lấy mã thiết bị <i class="fa-solid fa-key"></i>*

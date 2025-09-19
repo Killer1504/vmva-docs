@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Thuyết minh phim
 
-Dịch và lồng tiếng phim từ ngôn ngữ này sang ngôn ngữ khác
+Dịch và lồng tiếng phim từ ngôn ngữ này <i class="fa-solid fa-arrow-right"></i> ngôn ngữ khác
 
 ![Lyric](/img/thuyetminh/thuyet-minh.png)
 
@@ -12,11 +12,14 @@ Dịch và lồng tiếng phim từ ngôn ngữ này sang ngôn ngữ khác
 
 ## I. Dịch phim
 
-### 1. Lấy lyric
+### 1. Lấy lyric 
     - Tự động
-        - Ở Menu **Lyric gốc** -> **Tạo tự động**. Thư viện sẽ tạo generate ra file .srt và tự động import máy tính
+        - Ở Menu **Lyric gốc** -> **Tạo tự động**. Thư viện sẽ tạo generate ra file `.srt` và tự động import vào project
     - Upload từ máy tính
         - Ở Menu **Lyric gốc** -> **Upload từ máy tính**
+:::note    
+Chương trình sẽ xóa bỏ 1 số dòng bị duplicate <i class="fa-solid fa-arrow-right"></i> tránh audio bị đè lên nhau
+:::
 ### 2. Dịch
     - Dịch tự động: **Lyric dịch** -> **Dịch**
         - Chat GPT (Recommend)
@@ -25,11 +28,13 @@ Dịch và lồng tiếng phim từ ngôn ngữ này sang ngôn ngữ khác
         
 :::note    
 Sau khi dịch, bạn cần review lại bản dịch để confirm lại
+- Check lại ngôn ngữ bản dịch nếu bị dịch sai (Vào menu *Lyric dịch* <i class="fa-solid fa-arrow-right"></i> *So sánh*)
+- Tìm kiếm và thay thế (Vào menu *Lyric dịch* <i class="fa-solid fa-arrow-right"></i> *Tìm kiếm và thay thế*)
 :::
 
 ## II. Lồng tiếng
 
-### 1. Tải audio
+### 1. Tải audio 
 
     - Click vào item ở hình 1, ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
     - Có thể chọn clone sau khi tạo audio
@@ -41,7 +46,8 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
     **Hình 2 - Cửa sổ download audio**
 
 :::tip    
-Nếu tốc độ đọc của phim gốc nhanh, bạn cần chọn tốc độ cao khi download
+- Nếu tốc độ đọc của phim gốc nhanh, bạn cần chọn tốc độ cao khi download
+- Ở phía dưới - trái <i class="fa-solid fa-arrow-right"></i> trạng thái phần trăm (%) số lượng item đã được dịch và số lượng item có audio
 :::
 
 ### 2. Export video
@@ -59,3 +65,15 @@ Nếu tốc độ đọc của phim gốc nhanh, bạn cần chọn tốc độ 
 ![export-video](/img/common/export-video.png)
 
 **Hình 3 - Cửa sổ export video**
+
+
+## III. Ví dụ
+
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/TYUVUn29FuY"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>

@@ -8,7 +8,7 @@ Cài đặt thư viện để sử dụng đầy đủ tính năng của ứng d
 
 ## I. Thư viện lấy lyric
 
-Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
+Thư viện sẽ chuyển đổi *video, audio* <i class="fa-solid fa-arrow-right"></i> *text* dạng file `.srt` format
 
 1. Download
     - Download thư viện ở **[Lyric driver](https://drive.google.com/file/d/1fbsjYrpJGJD2tYhNZSyUsWi8jmZbSeDS/view)**
@@ -45,7 +45,7 @@ Thư viện sẽ chuyển đổi video, audio ra text dạng file .srt format
     - Cửa sổ tách vocal hiện ra (hình 3), vào **Công cụ** -> **Cài đặt manual**
     - Chương trình sẽ ghi xuống 1 file `remove_vocal.bat` vào máy tính
     - Mở terminal tại thư mục, gõ tên `remove_vocal.bat` và Enter
-    - Chạy ít nhất 3 lần cho đến khi báo thành công
+    - Chạy ít nhất 1 lần cho đến khi báo thành công
     - Khởi động lại máy tính, tìm đến cửa sổ Tách Vocal. Ở phía dưới cửa sổ, có button ***Bắt đầu xử lý*** là đã cài đặt thành công
 
 ![RemoveVocal](/img/lib/remove-vocal.png)
