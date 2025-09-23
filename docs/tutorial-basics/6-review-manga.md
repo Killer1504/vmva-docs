@@ -10,12 +10,12 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
 
 #### *Hình 1 - Giao diện review truyện tranh*
 
-## I. Edit item
-    1. Add item
+## I. Tạo item
+###    1. Add item
         - Menu **Công cụ** -> **Thêm item**
             - Nhập số lượng item cần thêm
             - Click OK
-    2. Text
+###     2. Text
         - Click vào từng item ở bảng list item
         - Tạo text
             - Lấy text từ ảnh (nhập thủ công *hoặc* nhận diện text bằng AI)
@@ -25,7 +25,7 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
     *P/s: Sau khi dịch, bạn cần review lại bản dịch để confirm lại*
 
 ## II. Edit ảnh
-    1. Vẽ khung chat
+###     1. Vẽ khung chat
         - Ở hình 1, click vào item cần edit
         - Click **Vẽ khung chat**
 
@@ -44,9 +44,9 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
 
 ## III. Tạo audio
 
-    1. Tải audio
+###     1. Tải audio
         - Click vào item ở hình 1, ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
-        - Chọn clone nếu như bạn muốn custome sang 1 giọng khác
+        - Chọn clone nếu như bạn muốn custom sang 1 giọng khác
         - Menu **Audio** -> **Download Audio**
         - Tải audio: bạn có thể chọn tốc độ phù hợp với nhu cầu của mình để download
 
@@ -55,17 +55,17 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
         **Hình 3 - Cửa sổ download audio**
 
 ## IV. Export video
-    1. Chọn hiệu ứng cho từng ảnh
+###     1. Chọn hiệu ứng cho từng ảnh
         - None
         - Left slide
         - Right slide
         - Zoom
         - Scroll
         - ...
-    2. Setting
+###     2. Setting
         - Chọn background, opacity
         - Chọn nhạc nền, âm lượng
-    3. Export
+###     3. Export
         - Chọn sử dụng GPU hoặc không
         - ~~Tách vocal~~ (không khả dụng ở template này)
 

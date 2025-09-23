@@ -12,10 +12,10 @@ Công cụ -> Cài đặt render video
 
 - Video encoder: h264 (render bằng *cpu* hoặc các *gpu* mà ffmpeg support)
 - Audio encoder: aac hoặc ac3
-- video/audio bitrate
-- framerate: 25, 30(fps)
-- audio sample rate
-- audio channel
+- Video/audio bitrate
+- Framerate: 25, 30(fps)
+- Audio sample rate
+- Audio channel (1,2)
 
 ![RenderVideo](/img/extra/render-video.png)
 
@@ -26,19 +26,23 @@ Công cụ -> Cài đặt render video
 
 Công cụ -> Quản lý asset
 
-- Thêm,xóa background image
-- Thêm,xóa background audio
+- Thêm, xóa hình nền <i class="fa-solid fa-images"></i>
+- Thêm, xóa nhạc nền <i class="fa-solid fa-music"></i>
 
 ![ManageAsset](/img/extra/manage-asset.png)
 
 #### *Hình 2 - Cửa sổ quản lý asset*
 
 
-## III. Quản lý chung
+## III. Cài đặt chung
 
 Công cụ -> Cài đặt chung
 
-- Cài đặt thời gian app check phiên bản mới
+- Cài đặt thời gian <i class="fa-solid fa-clock"></i> app check phiên bản mới
+- Nhập api key <i class="fa-solid fa-key"></i> cho ChatGPT khi sử dụng các tính năng liên quan
+- Chọn link server <i class="fa-solid fa-cloud"></i> tạo audio
+    - Các bạn ở Sunny thì chọn server **Sunny**
+    - Các bạn ở Vfast hoặc cty khác thì chọn server **Vfast**
 
 ![CommonSetup](/img/extra/common-setup.png)
 

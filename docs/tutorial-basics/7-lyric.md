@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Tạo video lyric
 
-Làm lyric cho video, audio
+Làm lyric cho video, audio và custom font chữ
 
 ![Lyric](/img/lyric/lyric-ui.png)
 
@@ -12,10 +12,10 @@ Làm lyric cho video, audio
 
 ## I. Tạo subtitle
 
-    1. Tạo tự động
+###     1. Tạo tự động
         - Chọn ngôn ngữ của video
         - Click vào button **Generate**
-    2. Upload từ máy tính
+###     2. Upload từ máy tính
         - Click vào menu **Lyric** <i class="fa-solid fa-arrow-right"></i> **Upload lyric**
 
 :::note

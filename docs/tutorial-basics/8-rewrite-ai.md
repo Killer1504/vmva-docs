@@ -13,9 +13,9 @@ Viết lại câu chuyện theo góc nhìn, phong cách khác
 ## I. Tạo subtitle
 
 Là bước cần thiết để có thể viết lại
-1. Tạo tự động
+### 1. Tạo tự động
     - Click vào menu **Lyric gốc** -> **Tạo tự động**
-2. Tạo thủ cộng
+### 2. Tạo thủ công
     - Click vào menu **Lyric gốc** -> **Tải lyric từ máy tính**
         
 
@@ -30,10 +30,10 @@ Là bước cần thiết để có thể viết lại
     *Hình 2 - Cửa sổ sửa thêm style*
 
 ## III. Viết lại
-    1. Viết lại
+###     1. Viết lại
         - Ở mục 2, click vào menu **Công cụ** -> **Viết lại**
         - Có thể dịch sang ngôn ngữ khác hoặc copy sang bản dịch
-    2. Download audio
+###     2. Download audio
         - Click vào item ở hình 1 (mục 2), ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
         - Có thể chọn giọng clone
         - Download audio

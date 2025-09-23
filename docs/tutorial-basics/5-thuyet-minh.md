@@ -67,7 +67,7 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 **Hình 3 - Cửa sổ export video**
 
 
-## III. Ví dụ
+## III. Ví dụ ngắn
 
 
 <iframe width="560" height="315"
