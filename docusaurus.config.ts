@@ -87,7 +87,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Changelog', position: 'left' },
         { to: '/download', label: 'Download', position: 'left' },
-        
+
       ],
     },
     footer: {
@@ -139,6 +139,28 @@ const config: Config = {
       crossorigin: "anonymous",
     },
   ],
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+
+        // For Docs using Chinese, it is recomended to set:
+        language: ["en", "vi"],
+
+        // Customize the keyboard shortcut to focus search bar (default is "mod+k"):
+        // searchBarShortcutKeymap: "s", // Use 'S' key
+        searchBarShortcutKeymap: "Ctrl+K", // Use Ctrl+Shift+F
+
+        // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
+        // forceIgnoreNoIndex: true,
+      }),
+    ],
+  ],
+
 };
 
 export default config;
