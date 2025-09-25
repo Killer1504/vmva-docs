@@ -21,9 +21,9 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
             - Lấy text từ ảnh (nhập thủ công *hoặc* nhận diện text bằng AI)
             - Có thể dịch sang ngôn ngữ khác
         
-    
-    *P/s: Sau khi dịch, bạn cần review lại bản dịch để confirm lại*
-
+:::note[Chú ý]
+- Sau khi dịch, bạn cần review lại bản dịch để confirm lại
+:::
 ## II. Edit ảnh
 ###     1. Vẽ khung chat
         - Ở hình 1, click vào item cần edit
@@ -34,12 +34,13 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
         *Hình 2 - Cửa sổ vẽ khung chat*
 
         - Click vào kiểu chat cần vẽ
-        - Di chuyển chuột vào vị trí ảnh cần vẽ, sau đó click chuột trái để confirm
+        - Di chuyển chuột vào vị trí ảnh cần vẽ, sau đó click chuột trái để confirm vị trí
+        - Chọn item, chuột phải <i class="fa-solid fa-arrow-right"></i> Xóa nếu bạn muốn xóa
         - Click **OK** để lưu lại ảnh vào item
 
-:::tip
- - Click vào button *Reset*  để reset lại ảnh
- - Click vào từng item, chuột phải <i class="fa-solid fa-arrow-right"></i> Xóa để xóa khung chat
+:::tip[Mẹo]
+ - Click vào button *Reset*  để reset lại toàn bộ ảnh
+ - Khung chat sau sẽ đè lên khung chat phía trước nếu bạn di chuyển chúng vào vị trí của nhau
 :::
 
 ## III. Tạo audio

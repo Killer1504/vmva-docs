@@ -33,7 +33,7 @@ Dùng **user** và **password** để đăng nhập
 #### *Hình 2 - Giao diện đăng nhập app*
 
 
-:::note
+:::note[Chú ý]
 - App sẽ tự động lưu thông tin user, password (ở máy tính của bạn, có mã hóa và không chia sẻ với bất kỳ ai)
 - App sẽ tự động lưu phiên đăng nhập (mặc định trong vòng 7 ngày)
 :::

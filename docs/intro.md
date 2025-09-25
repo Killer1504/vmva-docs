@@ -21,8 +21,8 @@ Tạo project để làm việc
 
 - B2. Làm theo hướng dẫn trong từng template, sau đó export video hoặc audio
 
-:::tip
-Có thể run nhiều project cùng 1 lúc
+:::tip[Mẹo]
+Có thể mở nhiều `instance` để làm việc cùng 1 lúc
 :::
 
 ## 3. Cài đặt thư viện
@@ -44,6 +44,6 @@ Các thư viện cần thiết để chạy project full tính năng
  5. Làm lyric cho video
  6. Thêm mặt nạ, zoom cho video mobile (9:16) <i class="fa-solid fa-arrow-right"></i> thành video 16:9
 
-:::tip
+:::tip[Mẹo]
 Bạn có thể mở đồng thời nhiều `instance` để làm việc với nhiều project cùng 1 lúc
 :::

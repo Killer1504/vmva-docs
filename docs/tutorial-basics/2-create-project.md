@@ -49,20 +49,20 @@ Các project lúc làm việc sẽ được lưu lại ở cửa sổ này
 - B2. Click đúp vào project *hoặc* nhấn vào **⋮** và chọn **Mở**
 
 
-:::note
+:::note[Chú ý]
 
 Nếu project chiếm dung lượng lớn, bạn hãy mở project. Sau đó chọn vào menu **Project <i class="fa-solid fa-arrow-right"></i> Mở project trong windows**
-và xóa các file `.mp4, .mp3` để giải phóng bộ nhớ
+và xóa các file `.mp4, .mp3`, các file tạm (nằm trong thư mục **./Temp/**) để giải phóng bộ nhớ
 
 :::
 
 
-:::danger
+:::danger[Nguy hiểm]
 Không xóa file có đuôi `.vmva`. Đây là file chưa thông tin project
 :::
 
 
-:::tip
+:::tip[Mẹo]
 Click vào button ở góc phải cửa sổ start application, sẽ thấy được thông tin tài khoản
 - Free
 - Pro <i class="fa-regular fa-star"></i>

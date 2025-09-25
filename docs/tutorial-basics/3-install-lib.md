@@ -12,7 +12,7 @@ Thư viện sẽ chuyển đổi *video, audio* <i class="fa-solid fa-arrow-righ
 
 - Download
     - Download thư viện ở **[Lyric driver](https://drive.google.com/file/d/1fbsjYrpJGJD2tYhNZSyUsWi8jmZbSeDS/view)**
-    - Giải nén file vừa download (Recommend ở ổ đĩa SSD)
+    - Giải nén file vừa download
 - Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Nhận diện lyric**
     - Chọn đến file `lyric_.exe` ở thư mục vừa giải nén
@@ -25,7 +25,7 @@ Thư viện sẽ chuyển đổi *video, audio* <i class="fa-solid fa-arrow-righ
 
 - Download
     - Download thư viện ở **[clone driver](https://drive.google.com/file/d/1nNkbe6iX3K-JzWOKErvDmQYR5wABDBMM/view)**
-    - Giải nén file vừa download (Recommend ở ổ đĩa SSD)
+    - Giải nén file vừa download
 - Cài đặt
     - Vào project bất kỳ, ở thành Menu tìm đến **Công cụ** -> **Voice clone**
     - Chọn đến thư mục vừa giải nén
@@ -52,3 +52,6 @@ Thư viện sẽ chuyển đổi *video, audio* <i class="fa-solid fa-arrow-righ
 
 #### *Hình 3 - Giao diện thư viện tách vocal*
 
+:::tip[Mẹo]
+- Bạn nên cài đặt thư viện trong ổ đĩa **SSD** để quá trình render được nhanh hơn
+:::

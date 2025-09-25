@@ -18,14 +18,20 @@ Làm lyric cho video, audio và custom font chữ
 ###     2. Upload từ máy tính
         - Click vào menu **Lyric** <i class="fa-solid fa-arrow-right"></i> **Upload lyric**
 
-:::note
-Có thể xóa lyric và upload lại nếu thấy bị sai
+:::tip[Mẹo]
+- Có thể xóa lyric và upload lại nếu thấy bị sai
+- Click vào từng item để sửa trực tiếp
 :::
 
 ## II. Edit style
     
     - Ở hình 1, click vào tab **Lyric style** -> **Cài đặt**
-    - Chỉnh sửa style, khi đóng cửa sổ, chọn **OK**
+    - Chỉnh sửa style theo ý của bạn và chọn **OK**
+      - Font chữ
+      - Màu nền
+      - Kích cỡ
+      - ...
+    - Chọn kích thước để preview đúng video của bạn
 
     ![Edit-Style](/img/lyric/edit-style.png)
 

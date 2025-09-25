@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        VMVA app được thiết kế để cho user dễ dàng sử dụng với các template có sẵn.
+        VMVA app được thiết kế để cho user dễ dàng sử dụng với các template có sẵn và chỉ cần thao tác 1 vài bước đơn giản để render video/audio.
       </>
     ),
   },
@@ -24,17 +24,17 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        VMVA app tập trung vào vấn đề của bạn, chỉ cần bạn có ý tưởng và tài nguyên,
-        app sẽ export video 1 cách dễ dàng.
+        VMVA tập trung vào nhu cầu của bạn, chỉ cần bạn có ý tưởng và tài nguyên,
+        app sẽ render video/audio 1 cách dễ dàng.
       </>
     ),
   },
   {
     title: 'Render nhanh chóng',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/svg/performance.svg').default,
     description: (
       <>
-        VMVA app tận dụng tài nguyên của máy như GPU và CPU để render.
+        VMVA tận dụng tài nguyên của máy như GPU và CPU để render hiệu quả và nhanh chóng.
       </>
     ),
   },

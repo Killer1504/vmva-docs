@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'VMVA Documentation',
-  tagline: 'A desktop application for making video',
+  tagline: '1 ứng dụng render video/audio nhanh chóng và dễ dàng!!!',
   favicon: 'img/v.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -110,7 +110,7 @@ const config: Config = {
               href: 'https://sunnymedia.net/',
             },
             {
-              label: 'Vfast Media, Dev',
+              label: 'Vfast Media - Dev',
               href: 'https://vfastsoft.com/',
             }
           ],

@@ -26,7 +26,7 @@ Chương trình sẽ xóa bỏ 1 số dòng bị duplicate <i class="fa-solid fa
         - Microsoft
     - Tải từ máy tính: **Lyric dịch** -> **Upload từ máy tính**
         
-:::note    
+:::note[Chú ý]
 Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 - Check lại ngôn ngữ bản dịch nếu bị dịch sai (Vào menu *Lyric dịch* <i class="fa-solid fa-arrow-right"></i> *So sánh*)
 - Tìm kiếm và thay thế (Vào menu *Lyric dịch* <i class="fa-solid fa-arrow-right"></i> *Tìm kiếm và thay thế*)
@@ -45,7 +45,7 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 
     **Hình 2 - Cửa sổ download audio**
 
-:::tip    
+:::tip[Mẹo]
 - Nếu tốc độ đọc của phim gốc nhanh, bạn cần chọn tốc độ cao khi download
 - Ở phía dưới - trái <i class="fa-solid fa-arrow-right"></i> trạng thái phần trăm (%) số lượng item đã được dịch và số lượng item có audio
 :::
