@@ -12,13 +12,41 @@
         <id>https://Killer1504.github.io/vmva-docs/blog/2-15-0</id>
         <link href="https://Killer1504.github.io/vmva-docs/blog/2-15-0"/>
         <updated>2025-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What's new]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's new<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#whats-new" class="hash-link" aria-label="Direct link to What's new" title="Direct link to What's new">​</a></h2>
+        <summary type="html"><![CDATA[1. Quan trọng]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-quan-trọng">1. Quan trọng<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#1-quan-tr%E1%BB%8Dng" class="hash-link" aria-label="Direct link to 1. Quan trọng" title="Direct link to 1. Quan trọng">​</a></h2>
+<ul>
+<li>Chuyển đổi hệ thống xác thực (đang nhập)<!-- -->
+<ul>
+<li>Chuyển đổi từ hệ thống VAIV <i class="fa-solid fa-arrow-right"></i> hệ thống <strong>Payment</strong></li>
+<li>Nếu mật khẩu cũ không đúng <i class="fa-solid fa-arrow-right"></i> dùng mật khẩu đăng nhập ở <strong>Payment</strong></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-các-update-khác">2. Các update khác<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#2-c%C3%A1c-update-kh%C3%A1c" class="hash-link" aria-label="Direct link to 2. Các update khác" title="Direct link to 2. Các update khác">​</a></h2>
 <ul>
 <li>Thêm tiện ích<!-- -->
 <ul>
 <li>Nối video, audio</li>
 <li>Chuyển đổi file sang <code>.mp3</code></li>
+<li>Download video từ youtube</li>
+<li>Nâng cấp và phân luồng server audio để download nhanh hơn</li>
+<li>Update UI</li>
+</ul>
+</li>
+<li>Review phim<!-- -->
+<ul>
+<li>Thêm chức năng tìm kiếm <i class="fa-solid fa-magnifying-glass"></i> và thay thế ở bản dịch</li>
+<li>Nhập index (các dòng) để apply giọng đọc cho các item muốn chọn</li>
+</ul>
+</li>
+<li>Anti CR<!-- -->
+<ul>
+<li>Tối ưu câu lệnh, giảm dung lượng bộ nhớ RAM trong quá trình render</li>
+</ul>
+</li>
+<li>Vẽ khung chat<!-- -->
+<ul>
+<li>Thêm chức năng xóa khi click chuột phải vào item</li>
 </ul>
 </li>
 </ul>]]></content>
