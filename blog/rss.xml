@@ -23,7 +23,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-các-update-khác">2. Các update khác<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#2-c%C3%A1c-update-kh%C3%A1c" class="hash-link" aria-label="Direct link to 2. Các update khác" title="Direct link to 2. Các update khác">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-tính-năng">2. Tính năng<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#2-t%C3%ADnh-n%C4%83ng" class="hash-link" aria-label="Direct link to 2. Tính năng" title="Direct link to 2. Tính năng">​</a></h2>
 <ul>
 <li>Thêm tiện ích<!-- -->
 <ul>
@@ -50,6 +50,10 @@
 <li>Thêm chức năng xóa khi click chuột phải vào item</li>
 </ul>
 </li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-fix-lỗi">3. Fix lỗi<a href="https://killer1504.github.io/vmva-docs/blog/2-15-0#3-fix-l%E1%BB%97i" class="hash-link" aria-label="Direct link to 3. Fix lỗi" title="Direct link to 3. Fix lỗi">​</a></h2>
+<ul>
+<li>Tăng thời gian download audio nếu văn bản quá dài</li>
 </ul>]]></content:encoded>
             <category>Download</category>
         </item>
