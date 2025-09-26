@@ -10,9 +10,9 @@ Dịch và lồng tiếng phim từ ngôn ngữ này <i class="fa-solid fa-arrow
 
 #### *Hình 1 - Giao diện template thuyết minh phim*
 
-## I. Dịch phim
+## 1. Dịch phim
 
-### 1. Lấy lyric 
+### 1.1 Lấy lyric 
     - Tự động
         - Ở Menu **Lyric gốc** -> **Tạo tự động**. Thư viện sẽ tạo generate ra file `.srt` và tự động import vào project
     - Upload từ máy tính
@@ -20,7 +20,7 @@ Dịch và lồng tiếng phim từ ngôn ngữ này <i class="fa-solid fa-arrow
 :::note    
 Chương trình sẽ xóa bỏ 1 số dòng bị duplicate <i class="fa-solid fa-arrow-right"></i> tránh audio bị đè lên nhau
 :::
-### 2. Dịch
+### 1.2 Dịch
     - Dịch tự động: **Lyric dịch** -> **Dịch**
         - Chat GPT (Recommend)
         - Microsoft
@@ -32,9 +32,9 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 - Tìm kiếm và thay thế (Vào menu *Lyric dịch* <i class="fa-solid fa-arrow-right"></i> *Tìm kiếm và thay thế*)
 :::
 
-## II. Lồng tiếng
+## 2. Lồng tiếng
 
-### 1. Tải audio 
+### 2.1 Tải audio 
 
     - Click vào item ở hình 1, ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
     - Có thể chọn clone sau khi tạo audio
@@ -50,7 +50,7 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 - Ở phía dưới - trái <i class="fa-solid fa-arrow-right"></i> trạng thái phần trăm (%) số lượng item đã được dịch và số lượng item có audio
 :::
 
-### 2. Export video
+### 2.2 Export video
 - Chọn option xử lý audio (Ở phần *Cài đặt chung* trên hình 1)
     - Mặc định
     - Tự điều chỉnh tốc độ âm thanh
@@ -67,7 +67,7 @@ Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 **Hình 3 - Cửa sổ export video**
 
 
-## III. Ví dụ ngắn
+## 3. Ví dụ ngắn
 
 
 <iframe width="560" height="315"

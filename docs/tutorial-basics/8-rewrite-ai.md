@@ -10,16 +10,18 @@ Viết lại câu chuyện theo góc nhìn, phong cách khác
 
 #### *Hình 1 - Giao diện tạo video rewrite*
 
-## I. Tạo subtitle
+## 1. Tạo subtitle
 
 Là bước cần thiết để có thể viết lại
-### 1. Tạo tự động
+### 1.1 Tạo tự động
+
     - Click vào menu **Lyric gốc** -> **Tạo tự động**
-### 2. Tạo thủ công
+### 1.2 Tạo thủ công
+
     - Click vào menu **Lyric gốc** -> **Tải lyric từ máy tính**
         
 
-## II. Edit style
+## 2. Edit style
     
     - Ở hình 1, click vào tab **Cài đặt Re-write**
     - Chọn phong cách viết lại
@@ -33,8 +35,8 @@ Là bước cần thiết để có thể viết lại
 - Có thể dùng các công cụ AI như ChatGPT, Gemeni để hỗ trợ
 :::
 
-## III. Viết lại
-###     1. Viết lại
+## 3. Viết lại
+###     3.1 Viết lại
         - Ở phần cài đặt Re-write, chọn style viết lại theo ý của bạn
             - Hài
             - Lãng mạng
@@ -43,12 +45,12 @@ Là bước cần thiết để có thể viết lại
             - ...
         - Ở mục 2, click vào menu **Công cụ** -> **Viết lại**
         - Sau khi xong, có thể dịch sang ngôn ngữ khác hoặc copy sang bản dịch
-###     2. Download audio
+###     3.2 Download audio
         - Click vào item ở hình 1 (mục 2), ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
         - Chọn giọng clone nếu như bạn mong muốn
         - Download audio
 
-## IV. Export video
+## 4. Export video
     - Chọn sử dụng GPU hoặc không
     - Tách vocal
 
@@ -57,7 +59,7 @@ Là bước cần thiết để có thể viết lại
     **Hình 3 - Cửa sổ export video**
 
 
-## VI. Ví dụ
+## 5. Ví dụ
 
 
 <iframe width="560" height="315"

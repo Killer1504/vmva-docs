@@ -10,20 +10,20 @@ Làm lyric cho video, audio và custom font chữ
 
 #### *Hình 1 - Giao diện tạo video lyric*
 
-## I. Tạo subtitle
+## 1. Tạo subtitle
 
-###     1. Tạo tự động
-        - Chọn ngôn ngữ của video
+###     1.1 Tạo tự động
+        - Ở hình 1, chọn ngôn ngữ của video
         - Click vào button **Generate**
-###     2. Upload từ máy tính
+###     1.2 Upload từ máy tính
         - Click vào menu **Lyric** <i class="fa-solid fa-arrow-right"></i> **Upload lyric**
 
 :::tip[Mẹo]
 - Có thể xóa lyric và upload lại nếu thấy bị sai
-- Click vào từng item để sửa trực tiếp
+- Click vào từng item để sửa trực tiếp nội dung của lyric
 :::
 
-## II. Edit style
+## 2. Edit style
     
     - Ở hình 1, click vào tab **Lyric style** -> **Cài đặt**
     - Chỉnh sửa style theo ý của bạn và chọn **OK**
@@ -38,7 +38,7 @@ Làm lyric cho video, audio và custom font chữ
     *Hình 2 - Cửa sổ sửa style lyric*
 
 
-## III. Export video
+## 3. Export video
     
     - Chọn sử dụng GPU hoặc không
     - ~~Tách vocal~~ (không khả dụng ở template này)
@@ -47,7 +47,7 @@ Làm lyric cho video, audio và custom font chữ
 
     **Hình 3 - Cửa sổ export video**
 
-## IV. Ví dụ
+## 4. Ví dụ
 
 
 <iframe width="560" height="315"

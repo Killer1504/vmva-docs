@@ -8,10 +8,12 @@ Tạo project mới hoặc mở project đã làm trước đó
 
 - Tạo project mới
 - Mở project đã có
-- *P/s*: các project đã tạo từ trước sẽ được lưu lại và sắp xếp theo thời gian mới nhất
 
+:::note[Chú ý]
+- Các project đã tạo từ trước sẽ được lưu lại và sắp xếp theo thời gian mới nhất
+:::
 
-## I. Start application
+## 1. Start application
 
 - Tạo project mới
 - Lưu thông tin các project trước đó: *Tên, loại, thời gian, kích thước*
@@ -20,7 +22,7 @@ Tạo project mới hoặc mở project đã làm trước đó
 
 #### *Hình 1 - Cửa sổ sau khi đăng nhập*
 
-## II. Tạo project mới
+## 2. Tạo project mới
 
 Tạo project để dễ dàng làm việc, người dùng có thể *lưu*, *mở* và *xóa* giống như *Office*
 
@@ -35,13 +37,17 @@ Tạo project để dễ dàng làm việc, người dùng có thể *lưu*, *m�
 
 #### *Hình 2 - Cửa sổ tạo project*
 
-:::tip
+:::tip[Mẹo]
 - Click vào button **<i class="fa-regular fa-star"></i> (favorite)** của template để nó sẽ được ưu tiên sắp xếp lên đầu
 - Click đúp vào template **=** click OK
 :::
 
+:::note[Chú ý]
+- Nếu tài khoản **Free** thì chỉ được các template sẽ chỉ **enable** đúng với tài khoản đó, các template còn lại sẽ bị **disable**
+:::
 
-## III. Mở project đã có
+
+## 3. Mở project đã có
 
 Các project lúc làm việc sẽ được lưu lại ở cửa sổ này
 
@@ -62,8 +68,7 @@ Không xóa file có đuôi `.vmva`. Đây là file chưa thông tin project
 :::
 
 
-:::tip[Mẹo]
-Click vào button ở góc phải cửa sổ start application, sẽ thấy được thông tin tài khoản
-- Free
-- Pro <i class="fa-regular fa-star"></i>
-:::
+
+
+
+

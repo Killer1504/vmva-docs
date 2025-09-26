@@ -47,3 +47,21 @@ Các thư viện cần thiết để chạy project full tính năng
 :::tip[Mẹo]
 Bạn có thể mở đồng thời nhiều `instance` để làm việc với nhiều project cùng 1 lúc
 :::
+
+## 5. Tài khoản
+
+- Sẽ chia làm 2 loại tài khoản
+    - Free
+    - Pro <i class="fa-regular fa-star"></i>
+
+
+| Tính năng                | Free        | Pro        |
+|--------------------------|-------------|------------|
+| Dùng tất cả các giọng nói| ✅          | ✅        |
+| Cập nhật thường xuyên    | ✅          | ✅        |
+| Dùng tất cả các giọng nói| ✅          | ✅        |
+| Support 24/7             | ❌          | ✅        |
+| Dùng tất cả các template | ❌          | ✅        |
+
+- Cách nâng cấp Free <i class="fa-solid fa-arrow-right"></i> Pro
+    - Liên hệ với admin qua discord: https://discord.com/users/877736628616061031

@@ -10,12 +10,12 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
 
 #### *Hình 1 - Giao diện review truyện tranh*
 
-## I. Tạo item
-###    1. Add item
+## 1. Tạo item
+###    1.1 Add item
         - Menu **Công cụ** -> **Thêm item**
             - Nhập số lượng item cần thêm
             - Click OK
-###     2. Text
+###     1.2 Text
         - Click vào từng item ở bảng list item
         - Tạo text
             - Lấy text từ ảnh (nhập thủ công *hoặc* nhận diện text bằng AI)
@@ -24,8 +24,8 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
 :::note[Chú ý]
 - Sau khi dịch, bạn cần review lại bản dịch để confirm lại
 :::
-## II. Edit ảnh
-###     1. Vẽ khung chat
+## 2. Edit ảnh
+###     2.1 Bằng VMVA
         - Ở hình 1, click vào item cần edit
         - Click **Vẽ khung chat**
 
@@ -43,30 +43,32 @@ Tạo video từ ảnh của 1 chap *truyện tranh* hoặc ảnh bất kỳ
  - Khung chat sau sẽ đè lên khung chat phía trước nếu bạn di chuyển chúng vào vị trí của nhau
 :::
 
-## III. Tạo audio
+###     2.2 Bằng các phần mềm khác
+        - Bạn có thể edit ảnh bằng các phần mềm khác, copy và paste trực tiếp vào item đang làm việc
 
-###     1. Tải audio
-        - Click vào item ở hình 1, ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
-        - Chọn clone nếu như bạn muốn custom sang 1 giọng khác
-        - Menu **Audio** -> **Download Audio**
-        - Tải audio: bạn có thể chọn tốc độ phù hợp với nhu cầu của mình để download
+## 3. Audio
 
-        ![Lyric](/img/common/download-audio.png)
+- Click vào item ở hình 1, ở trường **Chọn giọng TTK**, click vào ⋮ và áp dụng cho *tất cả* hoặc chọn *các item* tùy ý
+- Chọn clone nếu như bạn muốn custom sang 1 giọng khác
+- Menu **Audio** -> **Download Audio**
+- Tải audio: bạn có thể chọn tốc độ phù hợp với nhu cầu của mình để download
 
-        **Hình 3 - Cửa sổ download audio**
+![Lyric](/img/common/download-audio.png)
 
-## IV. Export video
-###     1. Chọn hiệu ứng cho từng ảnh
+**Hình 3 - Cửa sổ download audio**
+
+## 4. Export video
+###     4.1 Chọn hiệu ứng cho từng ảnh
         - None
         - Left slide
         - Right slide
         - Zoom
         - Scroll
         - ...
-###     2. Setting
+###     4.2 Setting
         - Chọn background, opacity
         - Chọn nhạc nền, âm lượng
-###     3. Export
+###     4.3 Export
         - Chọn sử dụng GPU hoặc không
         - ~~Tách vocal~~ (không khả dụng ở template này)
 

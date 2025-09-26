@@ -8,7 +8,10 @@ Sử dụng **user, password** và **computer id** máy để đăng nhập
 
 - Lấy computer id của máy gửi cho admin computer id để đăng ký khoản
 - Đăng nhập
-- P/s: mỗi tài khoản chỉ dùng được ở trên 1 máy tính
+
+:::note[Chú ý]
+ mỗi tài khoản chỉ dùng được ở trên 1 máy tính
+ :::
 
 ## 1. Đăng ký tài khoản
 
@@ -34,6 +37,6 @@ Dùng **user** và **password** để đăng nhập
 
 
 :::note[Chú ý]
-- App sẽ tự động lưu thông tin user, password (ở máy tính của bạn, có mã hóa và không chia sẻ với bất kỳ ai)
+- App sẽ tự động lưu thông tin *user, password* ở máy tính của bạn, có mã hóa(AES) và **không chia sẻ** với bất kỳ ai
 - App sẽ tự động lưu phiên đăng nhập (mặc định trong vòng 7 ngày)
 :::

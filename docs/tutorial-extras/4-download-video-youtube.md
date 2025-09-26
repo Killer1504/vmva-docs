@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Download video từ youtube <i class="fa-brands fa-youtube"></i> [develop*]
 
-## I. Hướng dẫn
+## Hướng dẫn
 
 Vào menu **Tiện ích** <i class="fa-solid fa-arrow-right"></i> **Download video từ youtube**
 

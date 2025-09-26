@@ -10,12 +10,12 @@ Thêm filter cho **video dọc** -> **video ngang**
 
 #### *Hình 1 - Giao diện tạo video rewrite*
 
-## I. Cắt video
-1. Cắt nhỏ
+## 1. Cắt video
+### 1.1. Cắt nhỏ
     - Chương trình sẽ cắt video gốc thành các chuỗi video nhỏ dài **180s, 30s** liên tiếp nhau
     - Thời gian cắt này có thể chỉnh sửa ở phần cài đặt
     - click vào menu **Video** -> **Cắt nhỏ**
-2. Edit filter
+### 1.2. Edit filter
     - Opacity
         - Chỉnh sửa độ mờ của video gốc
     - Zoom
@@ -26,7 +26,7 @@ Thêm filter cho **video dọc** -> **video ngang**
         - Chọn kích thước
         - Chọn màu
 
-## II. Cài đặt chung
+## 2. Cài đặt chung
 
 - Custom độ dài của video ngắn, dài
 - Điều chỉnh hệ số zoom của layer nền
@@ -36,7 +36,7 @@ Thêm filter cho **video dọc** -> **video ngang**
 - Nếu chương trình chạy tốn nhiều RAM (Vào Task Manager để kiểm tra) <i class="fa-solid fa-arrow-right"></i> Hãy giảm hệ số zoom của layer nền
 :::
 
-## III. Export video
+## 3. Export video
     - Chọn sử dụng GPU hoặc không
     - ~~Tách vocal~~ (không khả dụng ở template này)
 
@@ -44,7 +44,7 @@ Thêm filter cho **video dọc** -> **video ngang**
 
     **Hình 3 - Cửa sổ export video**
 
-## IV. Ví dụ
+## 4. Ví dụ
 
 
 <iframe width="560" height="315"
