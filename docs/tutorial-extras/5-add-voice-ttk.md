@@ -16,7 +16,7 @@ Vào menu **Cài đặt** <i class="fa-solid fa-arrow-right"></i> **Thêm giọn
 - Chọn file `.mp3`
 
 :::note[Chú ý]
-- Không chọn file có kích thước nhỏ hơn `20 MB`
+- Chỉ chọn file có kích thước nhỏ hơn `20 MB`
 :::
 
 ![AddVoice](/img/extra/add-voice.png)
