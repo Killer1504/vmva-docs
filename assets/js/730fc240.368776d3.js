@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvmva_docs=self.webpackChunkvmva_docs||[]).push([[9320],{9411:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/vmva-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
